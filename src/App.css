@@ -1,0 +1,12 @@
+body{
+  background-color:rgb(223, 239, 250);
+}
+#item1{
+  display:flex;
+  justify-content: space-between;
+}
+#item2
+{
+  display:flex;
+  justify-content:space-between;
+}
